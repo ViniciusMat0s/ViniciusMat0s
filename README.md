@@ -1,6 +1,10 @@
-### Hello World! Me chamo Vinícius Baratto de Matos, seja bem vindo ao meu GitHub!
+### Hello World!
+##Me chamo Vinícius Baratto de Matos e sou um recém ingressado ao universo da programação, seja bem vindo ao meu perfil no GitHub!
 
-Contato
+👩‍💻 Cursando Análise e Desenvolvimento de Sistemas em Ulbra/Torres
+😄 19 anos
+🏠 Capão da Canoa - RS
+📖 Todo dia é o dia!
 
 <div align="center">
   <a href ="mailto:vinibmatos@rede.ulbra.br?subject=Ol%C3%A1!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -11,6 +15,8 @@ Contato
   <a href ="https://github.com/ViniciusMat0s"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href ="https://www.linkedin.com/in/vinícius-matos-57845325a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<br>
 
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusmat0s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
