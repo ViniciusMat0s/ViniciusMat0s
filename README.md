@@ -35,7 +35,7 @@
   ![Snake animation](https://github.com/ViniciusMat0s/ViniciusMat0s/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-  <div align="center" style="height:100px>
+  <div align="center">
   
   ![hello-world](https://user-images.githubusercontent.com/128171517/234333609-169d6393-8d7b-4a94-9e15-ea408b9dd86a.gif)
   ![los-angeles-lakers-lakers](https://user-images.githubusercontent.com/128171517/234335254-b5fdc708-385c-439e-baaa-ef1d71f4a3e3.gif)
