@@ -1,10 +1,14 @@
 ### Hello World!
-##Me chamo Vinícius Baratto de Matos e sou um recém ingressado ao universo da programação, seja bem vindo ao meu perfil no GitHub!
+#### Me chamo Vinícius Baratto de Matos e sou um recém ingressado ao universo da programação, seja bem vindo ao meu perfil no GitHub!
 
-👩‍💻 Cursando Análise e Desenvolvimento de Sistemas em Ulbra/Torres
-😄 19 anos
-🏠 Capão da Canoa - RS
-📖 Todo dia é o dia!
+<div>
+- 👩‍💻 Cursando Análise e Desenvolvimento de Sistemas em Ulbra/Torres<br>
+- 😄 19 anos<br>
+- 🏠 Capão da Canoa - RS<br>
+- 📖 "Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero."
+</div>
+
+<br>
 
 <div align="center">
   <a href ="mailto:vinibmatos@rede.ulbra.br?subject=Ol%C3%A1!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -19,14 +23,22 @@
 <br>
 
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusmat0s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmat0s&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmat0s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmat0s&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div align="center"><br/>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  
+
   ![Snake animation](https://github.com/ViniciusMat0s/ViniciusMat0s/blob/output/github-contribution-grid-snake.svg)
+</div>
+  
+  <div align="center" style="height:100px>
+  
+  ![hello-world](https://user-images.githubusercontent.com/128171517/234333609-169d6393-8d7b-4a94-9e15-ea408b9dd86a.gif)
+  ![los-angeles-lakers-lakers](https://user-images.githubusercontent.com/128171517/234335254-b5fdc708-385c-439e-baaa-ef1d71f4a3e3.gif)
+
+  
 </div>
