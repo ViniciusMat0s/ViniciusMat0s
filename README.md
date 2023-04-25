@@ -31,10 +31,14 @@
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  
+ <br>
+  <br>
+  
+ <div align="center">
+  <img width="200" img height="200"src="src/assets/to_readme/lebroon.gif">
+  <img width="200" img height="200"src="src/assets/to_readme/golden.gif">
+  <img width="200" img height="200"src="src/assets/to_readme/lebroon.gif">
+</div>
 
   ![Snake animation](https://github.com/ViniciusMat0s/ViniciusMat0s/blob/output/github-contribution-grid-snake.svg)
-</div>
-  
-<div align="center">
-  <img width="800" img height="200"src="src/assets/to_readme/lebron.gif">
-</div>
