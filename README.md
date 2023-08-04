@@ -13,7 +13,7 @@
 #### Cursos
 <div>
   - Python Básico | Solyd Offensive Security<br>
-  - Linguagem de Programação C# - Básico | Fundação Bradesco
+  - Linguagem de Programação C# - Básico | Fundação Bradesco<br>
 </div>
 
 <div align="center">
