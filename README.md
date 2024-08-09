@@ -20,8 +20,8 @@
   - Inglês Básico A1 | Busuu
   - Curso de Informática Avançada | EducaWeb<br>
   - Fundamentos em TI: Hardware e Software | Fundação Bradesco<br>
-  - Qualificação Profissional, Formação Inicial e Continuada: Informática Avançada | Fajon
-  - Curso de Ruby | OneBitCode
+  - Qualificação Profissional, Formação Inicial e Continuada: Informática Avançada | Fajon<br>
+  - Curso de Ruby | OneBitCode<br>
   - AWS, na prática! | Udemy
 </div>
 
