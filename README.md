@@ -10,7 +10,7 @@
 
 <br>
 
-#### Cursos
+### Cursos
 <div>
   - Python Básico | Solyd Offensive Security<br>
   - Linguagem de Programação C# - Básico | Fundação Bradesco<br>
@@ -22,7 +22,7 @@
   - Fundamentos em TI: Hardware e Software | Fundação Bradesco<br>
   - Qualificação Profissional, Formação Inicial e Continuada: Informática Avançada | Fajon<br>
   - Curso de Ruby | OneBitCode<br>
-  - AWS, na prática! | Udemy
+  - AWS, na prática! | Udemy<br>
 </div>
 
 <br>
