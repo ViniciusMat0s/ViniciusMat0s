@@ -2,8 +2,8 @@
 #### Me chamo Vinícius Baratto de Matos e sou um recém ingressado ao universo da programação, seja bem vindo ao meu perfil no GitHub!
 
 <div>
-- 👩‍💻 Cursando Análise e Desenvolvimento de Sistemas em Ulbra/Torres<br>
-- 😄 19 anos<br>
+- 👩‍💻 4º Semestre em Análise e Desenvolvimento de Sistemas na Ulbra/Torres<br>
+- 😄 20 anos<br>
 - 🏠 Capão da Canoa - RS<br>
 - 📖 "Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero."
 </div>
@@ -14,6 +14,15 @@
 <div>
   - Python Básico | Solyd Offensive Security<br>
   - Linguagem de Programação C# - Básico | Fundação Bradesco<br>
+  - Linguagem de Programação C# - Avançado | Fundação Bradesco<br>
+  - Fundamentos do C# | Balta.io<br>
+  - Introdução ao JavaScript | Fundação Bradesco
+  - Inglês Básico A1 | Busuu
+  - Curso de Informática Avançada | EducaWeb<br>
+  - Fundamentos em TI: Hardware e Software | Fundação Bradesco<br>
+  - Qualificação Profissional, Formação Inicial e Continuada: Informática Avançada | Fajon
+  - Curso de Ruby | OneBitCode
+  - AWS, na prática! | Udemy
 </div>
 
 <br>
@@ -44,6 +53,7 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)">
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="MySQL" src="![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)">
   
  <br>
   <br>
