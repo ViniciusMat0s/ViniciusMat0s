@@ -100,4 +100,4 @@
   <img width="200" img height="200"src="src/assets/to_readme/lebroon.gif">
 </div>
 
-  ![Snake animation](https://github.com/ViniciusMat0s/ViniciusMat0s/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ViniciusMat0s/ViniciusMat0s/blob/output/github-contribution-grid-snake.gif)
