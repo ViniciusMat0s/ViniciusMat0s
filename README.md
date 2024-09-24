@@ -16,8 +16,8 @@
   - Linguagem de Programação C# - Básico | Fundação Bradesco<br>
   - Linguagem de Programação C# - Avançado | Fundação Bradesco<br>
   - Fundamentos do C# | Balta.io<br>
-  - Introdução ao JavaScript | Fundação Bradesco
-  - Inglês Básico A1 | Busuu
+  - Introdução ao JavaScript | Fundação Bradesco<br>
+  - Inglês Básico A1 | Busuu<br>
   - Curso de Informática Avançada | EducaWeb<br>
   - Fundamentos em TI: Hardware e Software | Fundação Bradesco<br>
   - Qualificação Profissional, Formação Inicial e Continuada: Informática Avançada | Fajon<br>
