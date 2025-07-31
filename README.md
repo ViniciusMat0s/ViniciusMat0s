@@ -2,28 +2,10 @@
 #### Me chamo Vinícius Baratto de Matos e sou um recém ingressado ao universo da programação, seja bem vindo ao meu perfil no GitHub!
 
 <div>
-- 👩‍💻 4º Semestre em Análise e Desenvolvimento de Sistemas na Ulbra/Torres<br>
-- 😄 20 anos<br>
+- 👩‍💻 6º Semestre em Análise e Desenvolvimento de Sistemas na Ulbra/Torres<br>
+- 😄 21 anos<br>
 - 🏠 Capão da Canoa - RS<br>
 - 📖 "Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero."
-</div>
-
-<br>
-
-### Cursos
-<div>
-  - Python Básico | Solyd Offensive Security<br>
-  - Linguagem de Programação C# - Básico | Fundação Bradesco<br>
-  - Linguagem de Programação C# - Avançado | Fundação Bradesco<br>
-  - Fundamentos do C# | Balta.io<br>
-  - Introdução ao JavaScript | Fundação Bradesco<br>
-  - Inglês Básico A1 | Busuu<br>
-  - Curso de Informática Avançada | EducaWeb<br>
-  - Fundamentos em TI: Hardware e Software | Fundação Bradesco<br>
-  - Qualificação Profissional, Formação Inicial e Continuada: Informática Avançada | Fajon<br>
-  - Curso de Ruby | OneBitCode<br>
-  - AWS, na prática! | Udemy<br>
-  - Curso de JavaScript | Curso em Vídeo<br>
 </div>
 
 <br>
