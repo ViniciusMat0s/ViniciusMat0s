@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" img height="200" img mix-blend-mode="mix" src="src/assets/to_readme/logo.jpg">
+  <img width="200" img height="200" img mix-blend-mode="mix" src="src/assets/to_readme/logo_vbm.jpg">
 </div>
 
 ### Hello World!
