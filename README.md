@@ -1,12 +1,6 @@
 ### Hello World!
-#### Me chamo Vinícius Baratto de Matos e sou um recém ingressado ao universo da programação, seja bem vindo ao meu perfil no GitHub!
-
-<div>
-- 👩‍💻 6º Semestre em Análise e Desenvolvimento de Sistemas na Ulbra/Torres<br>
-- 😄 21 anos<br>
-- 🏠 Capão da Canoa - RS<br>
-- 📖 "Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero."
-</div>
+#### Me chamo Vinícius Baratto de Matos, gaúcho de 21 anos, venha conhecer alguns dos meus projetos!
+#### Desenvolvedor Full Stack
 
 <br>
 
