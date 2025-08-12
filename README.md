@@ -1,4 +1,4 @@
-<img width="200" img height="200"src="src/assets/to_readme/logo.jpg">
+  <img width="200" img height="200"src="src/assets/to_readme/logo.jpg">
 ### Hello World!
 #### Me chamo Vinícius Baratto de Matos e sou um recém ingressado ao universo da programação, seja bem vindo ao meu perfil no GitHub!
 
