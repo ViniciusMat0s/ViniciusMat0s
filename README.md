@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="200" img height="200" img background-color="black"src="src/assets/to_readme/logo.jpg">
+  <img width="200" img height="200" img mix-blend-mode="mix" src="src/assets/to_readme/logo.jpg">
 </div>
+
 ### Hello World!
 #### Me chamo Vinícius Baratto de Matos e sou um recém ingressado ao universo da programação, seja bem vindo ao meu perfil no GitHub!
 
