@@ -3,14 +3,6 @@
 </div>
 
 ## Hello World!
-
-<div>
-- 👩‍💻 6º Semestre em Análise e Desenvolvimento de Sistemas na Ulbra/Torres<br>
-- 😄 21 anos<br>
-- 🏠 Capão da Canoa - RS<br>
-- 📖 "Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero."
-</div>
-
 <br>
 
 <div align="center">
