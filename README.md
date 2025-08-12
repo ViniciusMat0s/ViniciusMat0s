@@ -1,6 +1,7 @@
+# Vinícius Matos
+## Desenvolvedor Full Stack
 ### Hello World!
-#### Me chamo Vinícius Baratto de Matos, gaúcho de 21 anos, venha conhecer alguns dos meus projetos!
-#### Desenvolvedor Full Stack
+#### Venha conhecer alguns de meus projetos!
 
 <br>
 
