@@ -2,9 +2,7 @@
   <img width="500" img height="500" src="src/assets/to_readme/banner_vbm.png">
 </div>
 
-<br>
-https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev
-<br>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmat0s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
