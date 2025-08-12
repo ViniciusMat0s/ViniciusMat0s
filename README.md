@@ -2,9 +2,8 @@
   <img width="500" img height="500" src="src/assets/to_readme/banner_vbm.png">
 </div>
 
-<div align="center">
   **Hello World!**
-</div>
+  
 <div align="center">
   <a href ="mailto:vinibmatos@rede.ulbra.br?subject=Ol%C3%A1!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://www.facebook.com/M4tszZ/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
