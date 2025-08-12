@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  ##Hello World!
+  **Hello World!
 </div>
 <div align="center">
   <a href ="mailto:vinibmatos@rede.ulbra.br?subject=Ol%C3%A1!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
