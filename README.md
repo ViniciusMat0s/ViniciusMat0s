@@ -2,8 +2,8 @@
   <img width="500" img height="500" src="src/assets/to_readme/banner_vbm.png">
 </div>
 
-<div align="center">
-  **Hello World!**
+<div align="center" font-size="46px">
+  Hello World!
 </div>
   
 <div align="center">
