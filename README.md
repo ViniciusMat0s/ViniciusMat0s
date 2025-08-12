@@ -1,3 +1,5 @@
+<div align="center"
+  
   <img width="500" img height="500" src="src/assets/to_readme/banner_vbm.png">
 
 [![Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,react,next,java,spring,php,laravel,figma,aws,git&theme=light)](https://skillicons.dev)
@@ -19,3 +21,5 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  
+</div>
