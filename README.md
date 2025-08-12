@@ -2,8 +2,7 @@
   <img width="500" img height="500" src="src/assets/to_readme/banner_vbm.png">
 </div>
 
-### Hello World!
-#### Me chamo Vinícius Baratto de Matos e sou um recém ingressado ao universo da programação, seja bem vindo ao meu perfil no GitHub!
+## Hello World!
 
 <div>
 - 👩‍💻 6º Semestre em Análise e Desenvolvimento de Sistemas na Ulbra/Torres<br>
