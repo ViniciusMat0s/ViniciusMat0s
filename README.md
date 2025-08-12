@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" img height="200" src="src/assets/to_readme/logo_vbm.png">
+  <img width="200" img height="200" src="src/assets/to_readme/banner.png">
 </div>
 
 ### Hello World!
