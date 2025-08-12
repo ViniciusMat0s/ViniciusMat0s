@@ -1,6 +1,8 @@
 <div align="center"
-  
   <img width="500" img height="500" src="src/assets/to_readme/banner_vbm.png">
+</div>
+
+<div align="center"
 
 [![Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,react,next,java,spring,php,laravel,figma,aws,git&theme=light)](https://skillicons.dev)
 
