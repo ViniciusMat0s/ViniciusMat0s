@@ -1,10 +1,10 @@
 <div align="center">
   <img align="center" width="500" img height="500" src="src/assets/to_readme/banner_vbm.png">
 </div
-  
+
+<p align=center">Visite meu perfil no LinkedIn!</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <p>Visite meu perfil no LinkedIn!</p>
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
