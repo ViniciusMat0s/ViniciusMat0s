@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nodejs,next,vue,express&theme=dark)"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nodejs,next,vue,express&theme=dark)"/>
   </a>
 </p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmat0s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
