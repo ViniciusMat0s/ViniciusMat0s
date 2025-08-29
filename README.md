@@ -1,4 +1,4 @@
-<img width="500" img height="500" src="src/assets/to_readme/banner_vbm.png">
+<img align="center" width="500" img height="500" src="src/assets/to_readme/banner_vbm.png">
 
 <p align="center">
   <a href="https://skillicons.dev">
