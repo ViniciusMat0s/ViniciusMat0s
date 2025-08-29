@@ -2,7 +2,6 @@
   <img align="center" width="500" img height="500" src="src/assets/to_readme/banner_vbm.png">
 </div
 
-<h1 align="center">Visite meu perfil no LinkedIn!</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -10,21 +9,18 @@
 </p>
 
 <p align="center">
-  <p>Minha Stack</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nodejs,next,vue,express&theme=dark"/>
   </a>
 </p>
 
 <p align="center">
-  <p>Outros conhecimentos</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,docker,kubernetes,figma,photoshop&theme=dark"/>
   </a>
 </p>
 
 <p align="center">
-  <p>Conhecimentos S.O</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,linux,windows&theme=dark"/>
   </a>
