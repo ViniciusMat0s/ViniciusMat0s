@@ -7,7 +7,7 @@
 </p>
 
 <div align="center"
-
+  <p>Stack</p>
   [![Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,react,next,java,spring,php,laravel,figma,aws,git&theme=light)](https://skillicons.dev)
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmat0s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
