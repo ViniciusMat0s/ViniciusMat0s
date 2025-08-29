@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 
-  <br>
+  <br><br>
   ##
   <p><strong>⚡️ Minha Stack</strong></p>
   <a href="https://skillicons.dev">
