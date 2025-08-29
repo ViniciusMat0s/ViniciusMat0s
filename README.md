@@ -1,7 +1,6 @@
 <img align="center" width="500" img height="500" src="src/assets/to_readme/banner_vbm.png">
 
 <p align="center">
-  <p>Visite meu LinkedIn!</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
