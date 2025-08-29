@@ -5,26 +5,28 @@
   <br><br>
 
   <!-- LinkedIn -->
-  <p><em>✨ Conecte-se comigo no LinkedIn! ✨</em></p>
+  <p>**✨ Conecte-se comigo no LinkedIn! ✨**</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 
   <br><br>
 
-  <!-- Frontend / Backend Skills -->
+  <p><em>✨ Minha Stack ✨</em></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nodejs,next,vue,express&theme=dark"/>
   </a>
 
   <br>
 
+  <p><em>✨ Outros conhecimentos ✨</em></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,docker,kubernetes,figma,photoshop&theme=dark"/>
   </a>
 
   <br>
 
+  <p><em>✨ Sistemas utilizados ✨</em></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,linux,windows&theme=dark"/>
   </a>
