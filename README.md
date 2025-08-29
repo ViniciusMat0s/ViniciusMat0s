@@ -5,6 +5,7 @@
   <br><br>
 
   <!-- LinkedIn -->
+  <p><em>✨ Conecte-se comigo no LinkedIn! ✨</em></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
