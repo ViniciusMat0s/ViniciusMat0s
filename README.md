@@ -5,7 +5,7 @@
   <br><br>
 
   <!-- LinkedIn -->
-  <h1>🚀 <strong>Conecte-se comigo no <span style="color:#0077B5">LinkedIn</span>!</strong> 🚀</h1>
+  <h2>🚀 <strong>Conecte-se comigo no <span style="color:#0077B5">LinkedIn</span>!</strong> 🚀</h2>
   <a href ="https://www.linkedin.com/in/vinícius-matos-57845325a/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
