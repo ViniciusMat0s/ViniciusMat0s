@@ -1,36 +1,42 @@
 <div align="center">
-  <img align="center" width="500" img height="500" src="src/assets/to_readme/banner_vbm.png">
-</div
 
-<p align="center">
+  <img width="500" height="500" src="src/assets/to_readme/banner_vbm.png">
+
+  <br><br>
+
+  <!-- LinkedIn -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-</p>
 
-<p align="center">
+  <br><br>
+
+  <!-- Frontend / Backend Skills -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nodejs,next,vue,express&theme=dark"/>
   </a>
-</p>
 
-<p align="center">
+  <br>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,docker,kubernetes,figma,photoshop&theme=dark"/>
   </a>
-</p>
 
-<p align="center">
+  <br>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,linux,windows&theme=dark"/>
   </a>
-</p>
 
+  <br><br>
+
+  <!-- Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmat0s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmat0s&layout=compact&langs_count=16&theme=dark"/>
-  
-  <br>
-  
+
+  <br><br>
+
+  <!-- Social -->
   <a href ="mailto:vinibmatos@rede.ulbra.br?subject=Ol%C3%A1!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://www.facebook.com/M4tszZ/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href ="https://www.instagram.com/_matszz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -38,10 +44,14 @@
   <a href ="https://t.me/ViniMat0s"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href ="https://github.com/ViniciusMat0s"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href ="https://www.linkedin.com/in/vinícius-matos-57845325a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  <br>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-    
+
+  <br><br>
+
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  </picture>
+
 </div>
