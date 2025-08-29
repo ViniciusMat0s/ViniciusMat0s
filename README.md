@@ -6,10 +6,14 @@
 
   <!-- LinkedIn -->
   <p><strong>💼 Conecte-se comigo no LinkedIn!</strong></p>
-  <a href="https://skillicons.dev">
+  <a href ="https://www.linkedin.com/in/vinícius-matos-57845325a/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 
+  <a href="">
+    <img src="https://unpkg.com/language-icons/icons/LANGUAGE_CODE.svg>"
+  </a>
+    
   <br>
   
   ##
@@ -50,7 +54,6 @@
   <a href ="https://wa.me/5551989544006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href ="https://t.me/ViniMat0s"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href ="https://github.com/ViniciusMat0s"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href ="https://www.linkedin.com/in/vinícius-matos-57845325a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   <br><br>
 
