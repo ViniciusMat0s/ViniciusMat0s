@@ -8,10 +8,11 @@
 
 <div align="center"
   [![Stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,react,next,java,spring,php,laravel,figma,aws,git&theme=light)](https://skillicons.dev)
+</div>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmat0s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmat0s&layout=compact&langs_count=16&theme=dark"/>
-</div>
+  
   <br>
   
   <a href ="mailto:vinibmatos@rede.ulbra.br?subject=Ol%C3%A1!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
