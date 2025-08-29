@@ -1,8 +1,9 @@
 <img width="500" img height="500" src="src/assets/to_readme/banner_vbm.png">
 
 <div align="center"
-  <h1>Visite meu LinkedIn aqui!<br>
+  <h1>Visite meu LinkedIn aqui!<br><br>
   <a href ="https://www.linkedin.com/in/vinícius-matos-57845325a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <br>
 </div>
 
 <div align="center"
