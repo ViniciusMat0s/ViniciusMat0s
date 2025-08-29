@@ -14,7 +14,7 @@
   
   ##
   <p><strong>⚡️ Minha Stack</strong></p>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/vinícius-matos-57845325a/">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nodejs,next,vue,express&theme=dark"/>
   </a>
   
@@ -22,7 +22,7 @@
   
   ##
   <p><strong>🧠 Outros conhecimentos</strong></p>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/vinícius-matos-57845325a/">
     <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,docker,kubernetes,figma,photoshop&theme=dark"/>
   </a>
 
@@ -30,7 +30,7 @@
   
   ##
   <p><strong>💻 S.Os</strong></p>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/vinícius-matos-57845325a/>
     <img src="https://skillicons.dev/icons?i=apple,linux,windows&theme=dark"/>
   </a>
 
