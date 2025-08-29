@@ -9,10 +9,6 @@
   <a href ="https://www.linkedin.com/in/vinícius-matos-57845325a/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-
-  <a href="">
-    <img src="https://unpkg.com/language-icons/icons/english.svg>"
-  </a>
     
   <br>
   
