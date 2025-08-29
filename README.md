@@ -2,7 +2,7 @@
 
   <img width="500" height="500" src="src/assets/to_readme/banner_vbm.png">
 
-  <br><br>
+  <br>
 
   <!-- LinkedIn -->
   <h3>🚀 <strong>Conecte-se comigo no <span style="color:#0077B5">LinkedIn</span>!</strong> 🚀</h3>
