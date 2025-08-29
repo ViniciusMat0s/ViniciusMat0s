@@ -3,8 +3,8 @@
 </div
   
 <p align="center">
-  <p>Visite meu perfil no LinkedIn!</p>
   <a href="https://skillicons.dev">
+    <p>Visite meu perfil no LinkedIn!</p>
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
