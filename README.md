@@ -11,7 +11,7 @@
   </a>
 
   <a href="">
-    <img src="https://unpkg.com/language-icons/icons/LANGUAGE_CODE.svg>"
+    <img src="https://unpkg.com/language-icons/icons/english.svg>"
   </a>
     
   <br>
