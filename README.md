@@ -10,7 +10,8 @@
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 
-  <br><br>
+  <br>
+  
   ##
   <p><strong>⚡️ Minha Stack</strong></p>
   <a href="https://skillicons.dev">
@@ -18,6 +19,7 @@
   </a>
   
   <br>
+  
   ##
   <p><strong>🧠 Outros conhecimentos</strong></p>
   <a href="https://skillicons.dev">
@@ -25,13 +27,15 @@
   </a>
 
   <br>
+  
   ##
   <p><strong>💻 S.Os</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,linux,windows&theme=dark"/>
   </a>
 
-  <br><br>
+  <br>
+  
   ##
   <!-- Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmat0s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
